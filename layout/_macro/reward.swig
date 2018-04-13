@@ -1,30 +1,7 @@
-<div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
-  <div>{{ theme.reward_comment }}</div>
-  <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
-    <span>{{ __('reward.donate') }}</span>
-  </button>
-  <div id="QR" style="display: none;">
+{% if theme.wechatpay %}
+  <div align="center">{{ theme.reward_comment }}</div>
+  <div width="100%" align="center" align="center">
+  <a href="http://www.dashangcloud.com/sh/878fe4" title="打赏小编">
+    <button style="width:110px; height:44px; border:#FFFFFF 1px solid; background:#EA6F5A; color:#FFFFFF;font-size: 16px;border-radius: 6px">打赏作者</button>
+  </a>
 
-    {% if theme.wechatpay %}
-      <div id="wechat" style="display: inline-block">
-        <img id="wechat_qr" src="{{ url_for(theme.wechatpay) }}" alt="{{ theme.author }} {{ __('reward.wechatpay') }}"/>
-        <p>{{ __('reward.wechatpay') }}</p>
-      </div>
-    {% endif %}
-
-    {% if theme.alipay %}
-      <div id="alipay" style="display: inline-block">
-        <img id="alipay_qr" src="{{ url_for(theme.alipay) }}" alt="{{ theme.author }} {{ __('reward.alipay') }}"/>
-        <p>{{ __('reward.alipay') }}</p>
-      </div>
-    {% endif %}
-
-    {% if theme.bitcoin %}
-      <div id="bitcoin" style="display: inline-block">
-        <img id="bitcoin_qr" src="{{ url_for(theme.bitcoin) }}" alt="{{ theme.author }} {{ __('reward.bitcoin') }}"/>
-        <p>{{ __('reward.bitcoin') }}</p>
-      </div>
-    {% endif %}
-
-  </div>
-</div>
