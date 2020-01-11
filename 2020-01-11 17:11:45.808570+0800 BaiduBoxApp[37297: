@@ -1,0 +1,193 @@
+2020-01-11 17:11:45.808570+0800 BaiduBoxApp[37297:5464379] yxx requestScope,scope mapp_i_login
+2020-01-11 17:11:47.790032+0800 BaiduBoxApp[37297:5464379] yxx requestScope,scope mapp_i_get_common_sys_info
+2020-01-11 17:11:47.895804+0800 BaiduBoxApp[37297:5464379] yxx begin getBDUSS
+2020-01-11 17:11:47.896531+0800 BaiduBoxApp[37297:5464379] yxx requestScope,scope mapp_i_get_bduss
+2020-01-11 17:11:47.975143+0800 BaiduBoxApp[37297:5464379] yxx BBAAccountThirdLoginBreakNotification
+2020-01-11 17:11:47.975185+0800 BaiduBoxApp[37297:5464379] yxx success private_dispatchThirdLogin
+2020-01-11 17:11:48.302123+0800 BaiduBoxApp[37297:5465907] yxx updateRequestFinished
+2020-01-11 17:11:48.303564+0800 BaiduBoxApp[37297:5465907] yxx in 1.448035 ms
+2020-01-11 17:11:48.303624+0800 BaiduBoxApp[37297:5464379] yxx tSucess finishJob
+2020-01-11 17:11:48.303817+0800 BaiduBoxApp[37297:5464379] yxx end getBDUSS ={
+2020-01-11 17:11:48.644127+0800 BaiduBoxApp[37297:5464379] yxx cb data={
+2020-01-11 17:12:47.126984+0800 BaiduBoxApp[37297:5465989] yxx updateRequestFinished
+2020-01-11 17:12:47.128439+0800 BaiduBoxApp[37297:5465989] yxx in 1.458883 ms
+2020-01-11 17:12:47.128504+0800 BaiduBoxApp[37297:5464379] yxx tSucess finishJob
+2020-01-11 17:12:47.425969+0800 BaiduBoxApp[37297:5464379] yxx onshow
+2020-01-11 17:12:47.813762+0800 BaiduBoxApp[37297:5464379] yxx requestScope,scope mapp_i_get_common_sys_info
+2020-01-11 17:12:47.832763+0800 BaiduBoxApp[37297:5464379] yxx begin getBDUSS
+2020-01-11 17:12:47.833401+0800 BaiduBoxApp[37297:5464379] yxx requestScope,scope mapp_i_get_bduss
+2020-01-11 17:12:47.834158+0800 BaiduBoxApp[37297:5464379] yxx end getBDUSS ={
+2020-01-11 17:12:47.925005+0800 BaiduBoxApp[37297:5464379] yxx requestScope,scope scope_get_channel_id
+
+
+
+
+
+2020-01-11 17:14:48.917884+0800 BaiduBoxApp[37327:5466999] yxx requestScope,scope mapp_i_login
+2020-01-11 17:14:50.783547+0800 BaiduBoxApp[37327:5466999] yxx requestScope,scope mapp_i_get_common_sys_info
+p[37327:5466999] yxx begin getBDUSS
+2020-01-11 17:14:50.888460+0800 BaiduBoxApp[37327:5466999] yxx requestScope,scope mapp_i_get_bduss
+2020-01-11 17:14:50.890175+0800 BaiduBoxApp[37327:5466999] yxx end getBDUSS ={
+2020-01-11 17:14:51.008550+0800 BaiduBoxApp[37327:5466999] yxx BBAAccountThirdLoginBreakNotification
+2020-01-11 17:14:51.008591+0800 BaiduBoxApp[37327:5466999] yxx success private_dispatchThirdLogin
+2020-01-11 17:14:51.294470+0800 BaiduBoxApp[37327:5466999] yxx cb data={
+
+
+
+
+默认	17:31:36.412312+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_login
+默认	17:31:38.569596+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_common_sys_info
+默认	17:31:38.643193+0800	BaiduBoxApp	yxx begin getBDUSS
+默认	17:31:38.643779+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_bduss
+默认	17:31:38.644437+0800	BaiduBoxApp	yxx end getBDUSS ={
+    data =     {
+        bduss = "";
+    };
+    message = "\U8c03\U8d77\U6210\U529f";
+    status = 0;
+}
+默认	17:31:39.378914+0800	BaiduBoxApp	yxx BBAAccountThirdLoginBreakNotification
+默认	17:31:39.379033+0800	BaiduBoxApp	yxx success private_dispatchThirdLogin
+默认	17:31:40.204257+0800	BaiduBoxApp	yxx cb data={
+    code = ea0412d344d70d4e99e7a364491803a8NW;
+}
+
+
+
+UIApplicationDidBecomeActiveNotification  +0.5
+onshow 
+
+openapp
+
+
+wx
+默认	17:48:40.622594+0800	BaiduBoxApp	yxx onshow
+默认	17:48:40.726104+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_common_sys_info
+默认	17:48:40.744288+0800	BaiduBoxApp	yxx begin getBDUSS
+默认	17:48:40.745799+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_bduss
+默认	17:48:40.746043+0800	BaiduBoxApp	yxx end getBDUSS ={
+    data =     {
+        bduss = "";
+    };
+    message = "\U8c03\U8d77\U6210\U529f";
+    status = 0;
+}
+默认	17:48:42.950015+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_login
+默认	17:48:47.612246+0800	BaiduBoxApp	yxx BBAAccountThirdLoginBreakNotification
+默认	17:48:47.612349+0800	BaiduBoxApp	yxx BBAAccountThirdLoginBreakNotification
+默认	17:48:47.612690+0800	BaiduBoxApp	yxx fail private_dispatchThirdLogin
+默认	17:48:47.774224+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_common_sys_info
+默认	17:48:47.825711+0800	BaiduBoxApp	yxx begin getBDUSS
+默认	17:48:47.826864+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_bduss
+默认	17:48:47.827023+0800	BaiduBoxApp	yxx end getBDUSS ={
+    data =     {
+        bduss = "";
+    };
+    message = "\U8c03\U8d77\U6210\U529f";
+    status = 0;
+}
+默认	17:48:50.019366+0800	BaiduBoxApp	yxx BBAAccountThirdLoginBreakNotification
+默认	17:48:50.019526+0800	BaiduBoxApp	yxx success private_dispatchThirdLogin
+默认	17:48:50.381789+0800	BaiduBoxApp	yxx cb data={
+    code = 31c8ed9c1bb7097a83b1359afe0c080fNW;
+}
+
+
+QQ
+
+默认	17:51:23.696314+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_login
+默认	17:51:27.464135+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_common_sys_info
+默认	17:51:27.502635+0800	BaiduBoxApp	yxx begin getBDUSS
+默认	17:51:27.503387+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_bduss
+默认	17:51:27.503741+0800	BaiduBoxApp	yxx end getBDUSS ={
+    data =     {
+        bduss = "";
+    };
+    message = "\U8c03\U8d77\U6210\U529f";
+    status = 0;
+}
+默认	17:51:27.946185+0800	BaiduBoxApp	yxx BBAAccountThirdLoginBreakNotification
+默认	17:51:27.946290+0800	BaiduBoxApp	yxx success private_dispatchThirdLogin
+默认	17:51:29.697813+0800	BaiduBoxApp	yxx cb data={
+    code = b7864004bd5ba9a095e5e3dce67ba1e9NW;
+}
+qq对的
+
+默认	17:56:54.652868+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_login
+默认	17:56:59.200742+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_common_sys_info
+默认	17:56:59.429212+0800	BaiduBoxApp	yxx begin getBDUSS
+默认	17:56:59.430046+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_bduss
+默认	17:56:59.585700+0800	BaiduBoxApp	yxx BBAAccountThirdLoginBreakNotification
+默认	17:56:59.585757+0800	BaiduBoxApp	yxx success private_dispatchThirdLogin
+默认	17:57:00.910465+0800	BaiduBoxApp	yxx updateRequestFinished
+默认	17:57:00.912782+0800	BaiduBoxApp	yxx in 2.018094 ms
+默认	17:57:00.912872+0800	BaiduBoxApp	yxx tSucess finishJob
+默认	17:57:00.913055+0800	BaiduBoxApp	yxx end getBDUSS ={
+    data =     {
+        bduss = 2dHYXRFeVUyaGI1VXRBUVZHYmd4MTNBLUVYTkxDeUVuODZETjBXR0V5UHFLRUZlRVFBQUFBJCQAAAAAAAAAAAEAAACZwAwMNDEwOTAwMzQ1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOqbGV7qmxleM;
+    };
+    message = "\U8c03\U8d77\U6210\U529f";
+    status = 0;
+}
+默认	17:57:01.040158+0800	BaiduBoxApp	yxx cb data={
+    code = 21f017389faf4ef8ecf2696ee6c8a8b0NW;
+}
+默认	17:57:55.528928+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_common_sys_info
+默认	17:57:55.545953+0800	BaiduBoxApp	yxx begin getBDUSS
+默认	17:57:55.546617+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_bduss
+默认	17:57:55.691021+0800	BaiduBoxApp	yxx updateRequestFinished
+默认	17:57:55.693656+0800	BaiduBoxApp	yxx in 2.512932 ms
+默认	17:57:55.693837+0800	BaiduBoxApp	yxx tSucess finishJob
+默认	17:57:55.709727+0800	BaiduBoxApp	yxx end getBDUSS ={
+    data =     {
+        bduss = 2dHYXRFeVUyaGI1VXRBUVZHYmd4MTNBLUVYTkxDeUVuODZETjBXR0V5UHFLRUZlRVFBQUFBJCQAAAAAAAAAAAEAAACZwAwMNDEwOTAwMzQ1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOqbGV7qmxleM;
+    };
+    message = "\U8c03\U8d77\U6210\U529f";
+    status = 0;
+}
+
+
+
+微信对的
+
+默认	17:55:39.521394+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_login
+默认	17:55:41.830766+0800	BaiduBoxApp	yxx BBAAccountThirdLoginBreakNotification
+默认	17:55:41.830837+0800	BaiduBoxApp	yxx success private_dispatchThirdLogin
+默认	17:55:41.831686+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_common_sys_info
+默认	17:55:42.715620+0800	BaiduBoxApp	yxx cb data={
+    code = d5d5177f2c85af68465e131c1522f785NW;
+}
+默认	17:55:42.718770+0800	BaiduBoxApp	yxx updateRequestFinished
+默认	17:55:42.721527+0800	BaiduBoxApp	yxx in 3.455043 ms
+默认	17:55:42.726680+0800	BaiduBoxApp	yxx tSucess finishJob
+默认	17:55:42.754677+0800	BaiduBoxApp	yxx begin getBDUSS
+默认	17:55:42.756694+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_bduss
+默认	17:55:42.757327+0800	BaiduBoxApp	yxx end getBDUSS ={
+    data =     {
+        bduss = NSMGR4VG01UjFYdFd5a013NkNVcHpHNEkxcngwSWl3N1pGbGFxSGs4U2RLRUZlRVFBQUFBJCQAAAAAAAAAAAEAAABd5o5O0KHD19bgaTkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ2bGV6dmxleR2;
+    };
+    message = "\U8c03\U8d77\U6210\U529f";
+    status = 0;
+}
+
+错误的
+默认	17:58:43.910823+0800	BaiduBoxApp	yxx begin getBDUSS
+默认	17:58:43.911529+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_bduss
+默认	17:58:43.912296+0800	BaiduBoxApp	yxx end getBDUSS ={
+    data =     {
+        bduss = "";
+    };
+    message = "\U8c03\U8d77\U6210\U529f";
+    status = 0;
+}
+默认	17:58:51.988178+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_login
+默认	17:58:56.292624+0800	BaiduBoxApp	yxx BBAAccountThirdLoginBreakNotification
+默认	17:58:56.292702+0800	BaiduBoxApp	yxx fail private_dispatchThirdLogin
+默认	17:58:56.580012+0800	BaiduBoxApp	yxx requestScope,scope mapp_i_get_common_sys_info
+默认	17:58:56.613280+0800	BaiduBoxApp	yxx begin getBDUSS
+
+
+1.登录失败
+2.success private_dispatchThirdLogin，在后拿不到 getbduss 后面拿不到
+
+
